@@ -20,3 +20,47 @@ section {
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(red, green, blue, alpha);
 }
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 1.1em;
+}
+
+footer a {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #ff9000;
+}
+
+/* Responsywność dla całej strony */
+@media (max-width: 600px) {
+    body {
+        padding: 5px;
+    }
+    header {
+        padding: 20px 5px;
+        font-size: 1em;
+    }
+    section {
+        margin: 10px 0;
+        padding: 10px;
+        font-size: 1em;
+    }
+    h1 {
+        font-size: 1.5em;
+    }
+    h2 {
+        font-size: 1.2em;
+    }
+    footer {
+        font-size: 1em;
+        padding: 15px 5px;
+    }
+}

@@ -64,3 +64,38 @@ footer a:hover {
         padding: 15px 5px;
     }
 }
+
+.fade-in {
+    animation: fadeInEffect 2s ease-in-out;
+}
+
+/* Definicja animacji */
+@keyframes fadeInEffect {
+    from {
+        opacity: 0; /* Pojawia się z przezroczystości */
+        filter: blur(5px); /* Rozmycie na początku */
+    }
+    to {
+        opacity: 1; /* Finalny efekt pełnej widoczności */
+        filter: blur(0); /* Brak rozmycia na końcu */
+    }
+}
+
+#main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.text {
+    max-width: 60%;
+}
+
+.image img {
+    max-width: 200;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}

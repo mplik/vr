@@ -4,7 +4,7 @@ Projekt wdrożenia vr reality
 
 Kliknij poniższy przycisk, aby zobaczyć demo projektu online:
 
-[![Zobacz Demo]( https://horizon.meta.com/world/655360014327380/?hwsh=G0ROpdMods )](https://mplik.github.io/vr/)
+[![Zobacz Demo][def]](https://mplik.github.io/vr/)
 
 ---
 
@@ -16,3 +16,5 @@ Projekt jest udostępniony na licencji MIT. Szczegóły w pliku `LICENSE`.
 
 **Zespół Projektowy**  
 Stworzony z pasją przez [mplik](https://github.com/mplik).
+
+[def]: https://horizon.meta.com/world/655360014327380/?hwsh=G0ROpdMods

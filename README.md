@@ -8,6 +8,12 @@ Kliknij poniższy przycisk, aby zobaczyć demo projektu online:
 
 ---
 
+## Wsparcie projektu
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=9MYZA8H98LSM4)
+
+---
+
 ## 📄 Licencja
 
 Projekt jest udostępniony na licencji MIT. Szczegóły w pliku `LICENSE`.

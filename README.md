@@ -2,6 +2,11 @@
 
 # vr
 Projekt wdrożenia vr reality
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mplik/vr@github)](https://gitads.dev/v1/ad-track?source=mplik/vr@github)
+
+
 ## 🌐 Demo
 
 Kliknij poniższy przycisk, aby zobaczyć demo projektu online:

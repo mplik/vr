@@ -1,3 +1,5 @@
+<!-- GitAds-Verify: DH9SUGT5JJARGUAL5C4B88HSU8MQ8B5Q -->
+
 # vr
 Projekt wdrożenia vr reality
 ## 🌐 Demo
